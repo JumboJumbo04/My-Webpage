@@ -14,7 +14,7 @@ I'm currently learning Java and working on various small projects. I'm using Git
 
 One of my current projects is a Tic-Tac-Toe game using JavaFX. You can check it out here:
 
-👉 [Java Programs Repository](https://github.com/JumboJumbo04/Java-Programs)
+👉 [TicTacToe Project Repository](https://github.com/JumboJumbo04/TicTacToe-Project)
 
 ---
 
